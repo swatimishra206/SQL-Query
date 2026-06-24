@@ -6,5 +6,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/swatimishra206/SQL-Query/tree/master/0175-combine-two-tables) |
 | [0184-department-highest-salary](https://github.com/swatimishra206/SQL-Query/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
