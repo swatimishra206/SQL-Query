@@ -18,8 +18,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/swatimishra206/SQL-Query/tree/master/0035-search-insert-position) |
+| [0729-my-calendar-i](https://github.com/swatimishra206/SQL-Query/tree/master/0729-my-calendar-i) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/swatimishra206/SQL-Query/tree/master/0035-search-insert-position) |
+| [0729-my-calendar-i](https://github.com/swatimishra206/SQL-Query/tree/master/0729-my-calendar-i) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/swatimishra206/SQL-Query/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/swatimishra206/SQL-Query/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/swatimishra206/SQL-Query/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
