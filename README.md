@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/swatimishra206/SQL-Query/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/swatimishra206/SQL-Query/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/swatimishra206/SQL-Query/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/swatimishra206/SQL-Query/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/swatimishra206/SQL-Query/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/swatimishra206/SQL-Query/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/swatimishra206/SQL-Query/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/swatimishra206/SQL-Query/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/swatimishra206/SQL-Query/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/swatimishra206/SQL-Query/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/swatimishra206/SQL-Query/tree/master/0729-my-calendar-i) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/swatimishra206/SQL-Query/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
