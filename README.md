@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/swatimishra206/SQL-Query/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/swatimishra206/SQL-Query/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/swatimishra206/SQL-Query/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/swatimishra206/SQL-Query/tree/master/0209-minimum-size-subarray-sum) |
 | [0729-my-calendar-i](https://github.com/swatimishra206/SQL-Query/tree/master/0729-my-calendar-i) |
 ## Binary Search
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/swatimishra206/SQL-Query/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/swatimishra206/SQL-Query/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/swatimishra206/SQL-Query/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/swatimishra206/SQL-Query/tree/master/0209-minimum-size-subarray-sum) |
 | [0729-my-calendar-i](https://github.com/swatimishra206/SQL-Query/tree/master/0729-my-calendar-i) |
 ## Design
 |  |
@@ -50,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/swatimishra206/SQL-Query/tree/master/0074-search-a-2d-matrix) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/swatimishra206/SQL-Query/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/swatimishra206/SQL-Query/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
