@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/swatimishra206/SQL-Query/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/swatimishra206/SQL-Query/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/swatimishra206/SQL-Query/tree/master/0209-minimum-size-subarray-sum) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/swatimishra206/SQL-Query/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0729-my-calendar-i](https://github.com/swatimishra206/SQL-Query/tree/master/0729-my-calendar-i) |
 ## Binary Search
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/swatimishra206/SQL-Query/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/swatimishra206/SQL-Query/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/swatimishra206/SQL-Query/tree/master/0209-minimum-size-subarray-sum) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/swatimishra206/SQL-Query/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0729-my-calendar-i](https://github.com/swatimishra206/SQL-Query/tree/master/0729-my-calendar-i) |
 ## Design
 |  |
@@ -49,10 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/swatimishra206/SQL-Query/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0729-my-calendar-i](https://github.com/swatimishra206/SQL-Query/tree/master/0729-my-calendar-i) |
 ## Ordered Set
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/swatimishra206/SQL-Query/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0729-my-calendar-i](https://github.com/swatimishra206/SQL-Query/tree/master/0729-my-calendar-i) |
 ## Matrix
 |  |
@@ -86,4 +90,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/swatimishra206/SQL-Query/tree/master/0004-median-of-two-sorted-arrays) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/swatimishra206/SQL-Query/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/swatimishra206/SQL-Query/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/swatimishra206/SQL-Query/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/swatimishra206/SQL-Query/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
